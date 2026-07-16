@@ -1,0 +1,13 @@
+This file is testing file.
+
+Test case n*1:
+###########
+- Step 1: XXXXX
+- Step 2: XXXXX
+
+Expected result:
+- XXXXX
+
+Hello Teachers!
+
+Hao Jiang 
