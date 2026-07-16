@@ -9,5 +9,5 @@ Expected result:
 - XXXXX
 
 Hello Teachers!
-
+This is my frist Github homework
 Hao Jiang 
